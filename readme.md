@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ### 4️⃣ **Run the Application**
 ```bash
-python main.py
+python assignment1.py
 ```
 
 ---
