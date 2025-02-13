@@ -28,7 +28,7 @@ This **Image Processing GUI** allows users to apply various image processing tec
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/ImageProcessingGUI.git
+git clone https://github.com/neelashkannan/Machine-Vision-Assignment-1.git
 cd ImageProcessingGUI
 ```
 
