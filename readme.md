@@ -3,6 +3,11 @@
 ## 📌 Project Description
 This **Image Processing GUI** allows users to apply various image processing techniques using **OpenCV** and **Tkinter**. Users can load an image, apply transformations, and view the processed output.
 
+## 🎥 Video Demonstration
+Watch the full working demo of the Image Processing GUI on YouTube:  
+🔗 [YouTube Video Link](https://youtu.be/gPx34iCIOaI)
+
+
 ## 🚀 Features
 - **Load & Display Image**
 - **Grayscale Conversion**
@@ -13,6 +18,7 @@ This **Image Processing GUI** allows users to apply various image processing tec
 - **Canny Edge Detection**
 - **Intensity Range Reduction**
 - **Histogram Equalization**
+- **Batch Image Processing & Auto-Saving**
 
 ## 📂 Folder Structure
 ```
@@ -21,7 +27,8 @@ This **Image Processing GUI** allows users to apply various image processing tec
  ┣ 📜 requirements.txt
  ┣ 📜 .gitignore
  ┣ 📜 main.py
- ┣ 📂 images/Output_images
+ ┣ 📂 images/  # Contains output images from processing
+ ┗ 📂 saved_images/
 ```
 
 ## 🛠️ Installation
@@ -59,6 +66,19 @@ python main.py
 
 ---
 
+## 🔧 Batch Processing & Auto-Saving (FileSaver)
+This GUI also supports **batch processing and automatic image saving** based on different threshold values and kernel sizes. The `FileSaver` functionality includes:
+- **Binarization:** Saves images for **thresholds from 1 to 255**.
+- **Mean Filter:** Saves filtered images for **kernel sizes 1x1 to 25x25**.
+- **Gaussian Filter:** Saves filtered images for **odd kernel sizes 1x1 to 25x25**.
+- **Canny Edge Detection:** Saves edge-detected images for **thresholds 1 to 255**.
+- **Reduced Intensity:** Saves images for intensity ranges **from 255 to 8**.
+- **Histogram Equalization:** Saves a histogram-equalized version of the image.
+
+All processed images are **automatically saved** inside the `images/` folder and are renamed as `output images` for easy tracking.
+
+---
+
 ## 🔧 Dependencies
 This project requires **Python 3.x** and the following libraries:
 - `opencv-python`
@@ -85,7 +105,5 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 👤 Author
-**Your Name**  
-Neelash Kannan
-Msc Robotics
-Heriot watt University
+**Neelash Kannan Annadurai**  
+📧 Email: neelashkannan@outlook.com
