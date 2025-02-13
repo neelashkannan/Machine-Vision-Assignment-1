@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/ca042884-0f1d-451f-bcf4-3738dc5373d9
 ### 1️⃣ **Clone the Repository**
 ```bash
 git clone https://github.com/neelashkannan/Machine-Vision-Assignment-1.git
-cd ImageProcessingGUI
+cd Machine-Vision-Assignment-1
 ```
 
 ### 2️⃣ **Create a Virtual Environment (Optional)**
@@ -93,17 +93,6 @@ To install all dependencies, run:
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-## 🤝 Contributing
-Pull requests are welcome!  
-For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ---
 
