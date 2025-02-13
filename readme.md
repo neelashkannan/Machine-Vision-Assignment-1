@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/ca042884-0f1d-451f-bcf4-3738dc5373d9
  ┣ 📜 report.docx
  ┣ 📜 Neelash's Machine Vision Assignment.pdf
  ┣ 📂 images/output_images
- ┗ 📂 saved_images/
+
 ```
 
 ## 🛠️ Installation
