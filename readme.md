@@ -4,7 +4,7 @@
 This **Image Processing GUI** allows users to apply various image processing techniques using **OpenCV** and **Tkinter**. Users can load an image, apply transformations, and view the processed output.
 
 ## 🎥 Video Demonstration
-Watch the full working demo of the Image Processing GUI on YouTube:  
+ 
 https://github.com/user-attachments/assets/ca042884-0f1d-451f-bcf4-3738dc5373d9
 
 
