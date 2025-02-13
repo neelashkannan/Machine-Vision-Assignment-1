@@ -5,7 +5,7 @@ This **Image Processing GUI** allows users to apply various image processing tec
 
 ## 🎥 Video Demonstration
 Watch the full working demo of the Image Processing GUI on YouTube:  
-🔗 [Video Link](https://github.com/user-attachments/assets/ca042884-0f1d-451f-bcf4-3738dc5373d9)
+https://github.com/user-attachments/assets/ca042884-0f1d-451f-bcf4-3738dc5373d9
 
 
 ## 🚀 Features
